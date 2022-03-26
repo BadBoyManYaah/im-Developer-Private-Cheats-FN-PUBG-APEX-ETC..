@@ -24,7 +24,6 @@
 4- Testing Part
 5- Delivering Project 
 
-
 •Please don't ask these questions
 
 - Not accepting to develop public sources.
